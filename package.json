@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Your portfolio description",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@srexi/purecounterjs": "^1.5.0",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.12.1",
+    "boxicons": "^2.1.4",
+    "express": "^4.21.2",
+    "glightbox": "^3.3.1",
+    "isotope-layout": "^3.0.6",
+    "swiper": "^11.2.6",
+    "typed.js": "^2.1.0",
+    "waypoints": "^4.0.1"
+  }
+}

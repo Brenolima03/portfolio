@@ -1,0 +1,17 @@
+{
+    "name": "breno/portfolio",
+    "autoload": {
+        "psr-4": {
+            "Breno\\Portfolio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Brenolima03",
+            "email": "brenocslima@outlook.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
