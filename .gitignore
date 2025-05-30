@@ -1,0 +1,41 @@
+# General OS and Editor junk
+.DS_Store
+Thumbs.db
+.fseventsd
+._*
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.localized
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Node.js and npm
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-error.log*
+.pnp
+.pnp.js
+
+# Composer
+*vendor/
+composer.lock
+
+# PHP specific
+*.log
+session/
+cache/
+tmp/
+.phpunit.result.cache
+
+# Optional - depending on your setup
+.env # Be cautious about committing this file!
+build/
+dist/
+out/
+coverage/
+
+.env
